@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-Backend-first engineer with **3+ years** building scalable, automation-driven systems across **FinTech, Capital Markets, and InsurTech** — now transitioning into **AI Engineering**.
+Backend-first engineer with **3+ years** building scalable, automation-driven systems across **FinTech, Capital Markets, and InsurTech** - now transitioning into **AI Engineering**.
 
 I've built regulatory compliance engines for the NSE, payment infrastructure at ImpactGuru, and multi-agent AI systems for dental diagnostics. My focus now is the intersection of **Backend Engineering + Workflow Automation + LLM-powered systems**.
 
@@ -23,7 +23,7 @@ I've built regulatory compliance engines for the NSE, payment infrastructure at 
 - 🤖 Exploring **LLM agents, RAG pipelines, and agentic AI** architectures
 - 📈 Background in **SEBI/NSE surveillance systems** and **IRDAI-compliant FinTech platforms**
 - 🔭 Building toward the stack: `Python` · `FastAPI` · `LangChain` · `AWS` · `n8n`
-- 📍 Based in **Mumbai, India** — open to remote opportunities
+- 📍 Based in **Mumbai, India** - open to remote opportunities
 
 ---
 
@@ -68,7 +68,7 @@ I've built regulatory compliance engines for the NSE, payment infrastructure at 
 
 ## 🚀 Featured Projects
 
-### 🦷 OdontoAgent — Agentic AI for Dental Diagnostics
+### 🦷 OdontoAgent - Agentic AI for Dental Diagnostics
 > Multi-agent AI system for automated dental imaging analysis and clinic workflow automation
 
 - Trained **YOLO v8** detection & segmentation models on 1,000+ dental X-ray images
@@ -79,7 +79,7 @@ I've built regulatory compliance engines for the NSE, payment infrastructure at 
 ---
 
 ### ⚙️ AI Workflow Automation Platform *(In Progress)*
-> Event-driven automation SaaS — webhooks, workflow triggers, AI orchestration
+> Event-driven automation SaaS - webhooks, workflow triggers, AI orchestration
 
 - Webhook ingestion · Workflow builder · Retry logic · Email/WhatsApp actions
 - AI layer for intelligent event routing and workflow suggestions
@@ -128,11 +128,11 @@ I've built regulatory compliance engines for the NSE, payment infrastructure at 
 ## 🎯 2025–26 Learning Roadmap
 
 - [ ] AWS Solutions Architect Associate (SAA-C03)
-- [ ] FastAPI + async Python — production depth
-- [ ] LangChain / LangGraph — agents, memory, tool use
-- [ ] RAG pipelines — pgvector, chunking, re-ranking
+- [ ] FastAPI + async Python - production depth
+- [ ] LangChain / LangGraph - agents, memory, tool use
+- [ ] RAG pipelines - pgvector, chunking, re-ranking
 - [ ] Fine-tuning with LoRA/PEFT
-- [ ] Kafka / RabbitMQ — event streaming
+- [ ] Kafka / RabbitMQ - event streaming
 - [ ] *Designing Data-Intensive Applications* (Kleppmann)
 
 ---
