@@ -87,15 +87,6 @@ I've built regulatory compliance engines for the NSE, payment infrastructure at 
 
 ---
 
-### 📈 Algo Trading Backtester *(In Progress)*
-> Strategy backtesting engine with Python + Fyers API integration
-
-- Automated strategy evaluation with performance metrics
-- Live trading exploration via Fyers API
-- **Stack:** Python · Pandas · NumPy · Fyers API
-
----
-
 ## 💼 Professional Highlights
 
 | Company | Role | Domain |
