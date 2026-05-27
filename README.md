@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shah--aniket-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-aniket/)
 [![Gmail](https://img.shields.io/badge/Email-shahaniket2000@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahaniket2000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Aniket--Shah-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aniket-Shah)
-![Profile Views](https://komarev.com/ghpvc/?username=Aniket-Shah&style=flat-square&color=0A66C2)
 
 </div>
 
